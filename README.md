@@ -13,7 +13,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UAM e criand
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-F57B10?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-3972F6?style=for-the-badge&logo=mysql&logoColor=white)
 ![VsCode](https://img.shields.io/badge/vsCode-123FB1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
