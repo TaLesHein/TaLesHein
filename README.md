@@ -2,7 +2,7 @@
 # 😜 About Me:
 Programador Back-End de dia, estudante de tecnologia à tarde e amante de Java à noite.
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UAM e criando projetos em Java para me especializar.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UAM e criando projetos em diferentes linguagens para me especializar.
 
 
 
