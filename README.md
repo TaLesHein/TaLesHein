@@ -20,5 +20,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UAM e criand
 ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3972F6?style=for-the-badge&logo=mysql&logoColor=white)
 ![VsCode](https://img.shields.io/badge/vsCode-123FB1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VsStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
